@@ -14,7 +14,7 @@ JSP와 Servlet와 함께 MVC패턴을 이용하여 항공권검색기능를 구�
 `HTML5` `CSS3` `JavaScript` `Jquery` `JSP`
 
 ### 2. Back-End
-`OracleDB` `AWS(RDS)` `MyBatis` `Servlet`
+`OracleDB` `AWS(RDS)` `MyBatis` `Spring` `TomcatServer8.5` `JDK1.8`
 
 ### 3. API
 `KokaoLogin` `KokaoPay` `Goolge OAuth` `jsPDF`
