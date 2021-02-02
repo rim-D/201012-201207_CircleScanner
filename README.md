@@ -7,6 +7,9 @@ MVC패턴을 이용하여 항공권검색기능를 구현하였습니다.<br>
 그 외 결제, 로그인 등 공공API를 사용하여 보다 user가 항공권 구매를 쉽고,<br>
 간편하게 사용할 수 있도록 한 웹사이트입니다.
 
+# CircleScanner
+https://youtu.be/Yhc_CEcPJjc
+
 # 포트폴리오 다운 받기
 <a href="https://github.com/rim-D/201012-201207_CircleScanner/files/5852896/201012-201207_CircleScanner_jsp_Spring.pdf">👆CircleScanner Project PDF 다운👆</a><br>
 ![image](https://user-images.githubusercontent.com/48913713/105430701-6fc60e80-5c97-11eb-9952-f1e9e1b59f3f.png)
