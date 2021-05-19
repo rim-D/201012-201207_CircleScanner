@@ -10,11 +10,6 @@ MVC패턴을 이용하여 항공권검색기능를 구현하였습니다.<br>
 # CircleScanner시연 영상 
 https://youtu.be/Yhc_CEcPJjc
 
-# 포트폴리오 다운 받기
-<a href="https://github.com/rim-D/201012-201207_CircleScanner/files/5852896/201012-201207_CircleScanner_jsp_Spring.pdf">👆CircleScanner Project PDF 다운👆</a><br>
-![image](https://user-images.githubusercontent.com/48913713/105430701-6fc60e80-5c97-11eb-9952-f1e9e1b59f3f.png)
-
-
 # 기술스택
 ### 1. Front-End
 `HTML5` `CSS3` `JavaScript` `Jquery` `JSP`
